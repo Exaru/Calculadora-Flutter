@@ -1,0 +1,3 @@
+Falta fazer o começo(tive problemas com a instalação do flutter)
+, implementar a parte que ele faz aos 9 minutos .
+Continuar apartir de 37 minutos.
